@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"acr","Source":"./modules/acr","Dir":"modules/acr"},{"Key":"appsvc","Source":"./modules/appservice","Dir":"modules/appservice"},{"Key":"managedidentity","Source":"./modules/managedidentity","Dir":"modules/managedidentity"},{"Key":"resource_group","Source":"./modules/resourcegroup","Dir":"modules/resourcegroup"}]}
