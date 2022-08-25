@@ -1,2 +1,0 @@
-variable "rglocation" {}
-variable "rgname" {}
